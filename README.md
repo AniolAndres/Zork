@@ -94,13 +94,13 @@ Zork:
 
 He escrito los textos en inglés de modo que en esta explicación usaré los mismos nombres
 Hay un total de 9 habitaciones:
-Cell
-Torture Chamber
-Guards Room
-Barracks
-Kitchen
-Servants Room
-Treasure Room
+Cell,
+Torture Chamber,
+Guards Room,
+Barracks,
+Kitchen,
+Servants Room,
+Treasure Room,
 Throne Room
 Courtyard
 
@@ -138,7 +138,7 @@ Una al norte y una al este.
 
 Zona Hall:
 Cogemos la manzana del suelo.
-norte
+norte.
 
 Kitchen:
 Cogemos el Cheese.
@@ -151,7 +151,7 @@ norte y 2 al este
 
 Throne room:
 Luchamos contra el troll, recibimos de él la llave y cogemos la espada del suelo con "Take Claymore" y la equipamos con "Use Claymore".
-usamos el ruby con la Claymore equipada aumentando asi el ataque
+Usamos el ruby con la Claymore equipada aumentando asi el ataque,
 curamos con "Use Cheese/Apple"
 5 al Oeste, esta vez con la llave podremos atravesar la puerta.
 
